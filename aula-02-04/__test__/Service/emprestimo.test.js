@@ -1,6 +1,6 @@
-const ServicoEmprestimo = require("../../../src/Model/Service/ServicoEmprestimo")
-const Usuario = require("../../../src/Model/Usuario/Usuario")
-const Livro = require("../../../src/Model/Livro/Livro")
+const ServicoEmprestimo = require("../../src/Model/Service/ServicoEmprestimo")
+const Usuario = require("../../src/Model/Usuario/Usuario")
+const Livro = require("../../src/Model/Livro/Livro")
 // public void static main (String[]args){}
 test(
     'teste',
